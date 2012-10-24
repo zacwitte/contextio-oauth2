@@ -3,6 +3,11 @@ contextio-oauth2
 
 A helper function for making oauth requests to Context.IO's version 2.0 API
 
+Requirements
+============
+
+sudo pip install httplib2 oauth2
+
 Examples
 ========
 
